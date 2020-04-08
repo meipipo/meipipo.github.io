@@ -1,0 +1,22 @@
+url: https://meipipo.github.io
+baseurl: ''
+
+# Site settings
+title: Mei FUKUDA
+description: "Mei's Personal Website"
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/meipipo
+  - title: facebook
+    url: https://www.facebook.com/i.am.fukuda.mei
+  - title: linkedin
+    url: https://www.linkedin.com/in/mei-fukuda
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-seo-tag

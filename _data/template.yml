@@ -1,0 +1,11 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: ff7f50
+  secondary: ffa500
+  secondary-dark: 333
+  muted: 777
+
+# Font Families
+font:
+  primary: 'Montserrat,sans-serif,Arial'
+  secondary: 'Montserrat,sans-serif,Arial'

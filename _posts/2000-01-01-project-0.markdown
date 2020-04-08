@@ -1,0 +1,12 @@
+---
+title: and more...
+subtitle: (To Be Updated)
+layout: default
+modal-id: 0
+date: 2000-01-01
+img: andmore.png
+thumbnail: andmore.png
+alt: image-alt
+description: Coming soon!
+
+---
