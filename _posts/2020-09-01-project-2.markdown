@@ -1,0 +1,12 @@
+---
+title: Merlink
+subtitle: <strong>September 2020</strong> <br>Mercari Hack Week 2020 Fall, Mercari, Inc.
+layout: default
+modal-id: 2
+date: 2020-09-01
+img: merlink.jpg
+thumbnail: merlink.jpg
+alt: image-alt
+description: I participated in Hack Week, a hackathon event at Mercari during internship with other interns (6 members). We developed a service that can generate embedding widgets of item and user of Mercari. I worked as one of backend engineers and built an API with Go and SQLite, and a microservice with gRPC, Docker and Kubernetes. Development time was around 4 days. We won a Silver Award (2nd place). See <a href="https://mercan.mercari.com/articles/25142/" target="_blank">article (Japanese)</a> for details.
+
+---

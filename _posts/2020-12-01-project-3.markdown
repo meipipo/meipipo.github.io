@@ -1,0 +1,12 @@
+---
+title: Karuta Reciter
+subtitle: <strong>December 2020</strong> <br>Assistant Tokyo Hackathon 2020, Google Japan Inc.
+layout: default
+modal-id: 3
+date: 2020-12-01
+img: karuta.png
+thumbnail: karuta.png
+alt: image-alt
+description: I participated in a team hackathon event during internship at Google with two other employees. We developed a Google Assistant app "Karuta Reciter", which recites Karuta poems and provides some quiz game of Hyakunin Isshu in 3 days. I contributed in specification of app and development with JavaScript and Actions on Google. We won the best demo award.
+
+---

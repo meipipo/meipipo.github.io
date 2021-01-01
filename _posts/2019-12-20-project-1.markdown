@@ -1,12 +1,12 @@
 ---
 title: Tast-lint Improvement
-subtitle: <strong>September to December 2019</strong> <br>STEP Internship at Chrome OS team, Google Japan, Inc.
+subtitle: <strong>September to December 2019</strong> <br>STEP Internship at Chrome OS team, Google Japan Inc.
 layout: default
 modal-id: 1
 date: 2019-12-20
 img: tast-lint.gif
 thumbnail: tast-lint.gif
 alt: image-alt
-description: I worked at Chrome OS team, Google Japan, Inc. as a software engineer. I added lint rules for an integration testing system <a href="https://chromium.googlesource.com/chromiumos/platform/tast/" target="_blank">Tast</a> and developed its auto-fixing system using Go language. See <a href="https://source.chromium.org/chromiumos/chromiumos/codesearch/+/master:src/platform/tast/src/chromiumos/tast/cmd/tast-lint/;l=1?q=tast-lint&sq=&ss=chromiumos" target="_blank">Source code (Chromium Code Search)</a> and <a href="https://chromium-review.googlesource.com/q/owner:mfukuda%2540google.com+before:2019-12-26" target="_blank">my CLs</a>.
+description: I worked at Chrome OS team, Google Japan, Inc. as a software engineer intern. I added lint rules for an integration testing system <a href="https://chromium.googlesource.com/chromiumos/platform/tast/" target="_blank">Tast</a> and developed its auto-fixing system using Go language. See <a href="https://source.chromium.org/chromiumos/chromiumos/codesearch/+/master:src/platform/tast/src/chromiumos/tast/cmd/tast-lint/;l=1?q=tast-lint&sq=&ss=chromiumos" target="_blank">Source code (Chromium Code Search)</a> and <a href="https://chromium-review.googlesource.com/q/owner:mfukuda%2540google.com+before:2019-12-26" target="_blank">my CLs</a>.
 
 ---
