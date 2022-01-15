@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Emoji Emotion Map</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Martel+Sans:wght@800&display=swap">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="icon" href="../../favicon.ico">
+    <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <h1>
+        Emoji Emotion Map 💓
+    </h1>
+    <div>
+        <img src="imgs/2019-10-01-clr.png" class="center" id="map-img">
+    </div>
+    <div>
+        <input type="range" min="0" step="1" value="0" id="day-slider">
+    </div>
+
+    <script src="app.js"></script>
+    <script>
+        twemoji.parse(document.body);
+    </script>
+</body>
+
+</html>
