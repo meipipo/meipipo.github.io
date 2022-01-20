@@ -8,11 +8,16 @@ h1 {
     color: rgb(255, 159, 68)
 }
 
+h2 {
+    text-align: center;
+}
+
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 80%;
+    text-align: center;
 }
 
 input[type="range"] {
@@ -20,11 +25,9 @@ input[type="range"] {
     appearance: none;
     cursor: pointer;
     outline: none;
-    background: #fae2b0;
+    background: #fcf3df;
     height: 1rem;
     width: 100%;
-    border-radius: 1rem;
-    border: solid 0.3rem #fcf3df;
     margin-top: 2rem;
 }
 input[type="range"]::-webkit-slider-thumb {
@@ -59,8 +62,32 @@ img.emoji {
     vertical-align: -0.1em;
 }
 
+.chart {
+    width: 80%;
+    padding-top: 75%;
+    position: relative;
+    margin: 0 auto;
+}
+
+.chart-child {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+}
+
+#map-img {
+    width: 50%;
+}
+
 @media screen and (max-width: 480px) {
 	#map-img {
-        width: 80%;
+        width: 100%;
+    }
+
+    .chart {
+        width: 100%;
+        padding-top: 100%;
     }
 }
