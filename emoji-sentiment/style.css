@@ -83,7 +83,7 @@ input[type="range"] {
     background: #fcf3df;
     height: 1rem;
     width: 100%;
-    margin-top: 2rem;
+    margin-top: 1rem;
 }
 input[type="range"]::-webkit-slider-thumb {
     -webkit-appearance: none;
@@ -133,19 +133,23 @@ img.emoji {
     position: absolute;
 }
 
-#map-img {
-    width: 50%;
-    margin-top: 2rem;
+#chart-div {
+    position: absolute;
+    width: 100%;
+}
+
+.chart-parent {
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 @media screen and (max-width: 480px) {
     h2, h3 {
         margin-left: 0.3rem;
         margin-right: 0.3rem;
-    }
-
-	#map-img {
-        width: 85%;
     }
 
     .chart {

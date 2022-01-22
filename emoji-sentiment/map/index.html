@@ -9,6 +9,8 @@
     <link rel="stylesheet" type="text/css" href="../style.css">
     <link rel="icon" href="../../favicon.ico">
     <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="data.js"></script>
 </head>
 
 <body>
@@ -29,8 +31,11 @@
     <h2>
         Emoji Sentiment Map in Japan 🗾
     </h2>
-    <div>
-        <img src="imgs/2019-10-01-clr.png" class="center" id="map-img">
+    <div class="chart-parent">
+        <div id="chart_div"></div>
+    </div>
+    <div class="center" id="date-display">
+        2019-10-01
     </div>
     <div class="center">
         <input type="range" min="0" step="1" value="0" id="day-slider">
