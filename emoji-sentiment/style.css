@@ -161,6 +161,10 @@ img.emoji {
         margin-right: 0.3rem;
     }
 
+    .causal {
+        width: 100%;
+    }
+
     .chart {
         width: 90%;
         padding-top: 90%;
