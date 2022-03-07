@@ -23,7 +23,7 @@ const options = {
 
 function drawMarkersMap(event) {
     const day = Number(daySlider.value);
-    const currentDate = new Date(2019, 9, 1);
+    const currentDate = new Date('October 1, 2019 00:00:00 GMT-0:00');
     currentDate.setDate(currentDate.getDate() + day);
 
     const dateString = currentDate.toISOString().substring(0, 10);
